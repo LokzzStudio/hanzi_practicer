@@ -1,0 +1,13 @@
+{
+  "path": {
+    "baseUrl": "https://firebasestorage.googleapis.com/v0/b/project-b256dbdf-5d18-448e-9e3.firebasestorage.app/o/",
+    "token": "ed114454-9dcc-4411-ae84-606f22801fb75"
+  },
+  "writing": {
+    "leniency": 2.5
+  },
+  "levelup": {
+    "levelUpExpBase": 5,
+    "maxLevel": 10
+  }
+}

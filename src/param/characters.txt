@@ -1,0 +1,301 @@
+Word	ID	Strokes	Adjustment	Base Power	Radical	Source 1	Source 1 Lv	Source 2	Source 2 Lv	Source 3	Source 3 Lv	Explanation
+一	1	1	-0.013	95	一							One straight line!|一條直線！得一劃咋。
+丁	2	2	0.011	160	一							Just like D in English!|好似英文嘅 D 咁樣！
+七	3	2	0.051	162	一							The lucky number seven!|帶來好運嘅七字！
+三	4	3	-0.15	214	一	一	5	二	4			Three little lines!|三條線，好似層層疊！
+上	5	3	-0.068	219	一							Pointing up high in the sky!|指住高高嘅天上！
+下	6	3	-0.224	209	一							Pointing down to the ground!|望住下面塊地！
+不	7	4	-0.228	272	一							Say no no no!|搖頭話「唔係」！
+世	8	5	0.043	354	一							The big big world!|我哋住嘅大世界！
+丙	9	5	0.236	366	一	一	7	內	4			Just like C in English!|好似英文嘅 C 咁樣！
+中	10	4	-0.074	283	丨							Right in the middle!|喺正中間位置呀！
+之	11	3	0.133	231	丶							A zig-zag slide!|之字形嘅瀡滑梯！
+主	12	5	-0.121	343	丶							The Lord who loves everyone!|主係好愛大家嘅王！
+九	13	2	0.18	171	丿							The number nine!|九字！就快數到十喇！
+久	14	3	-0.004	223	丿							A long long time!|好耐好耐以前！
+乙	15	1	0.268	113	乙							Just like B in English!|好似英文嘅 B 咁樣！
+了	16	2	0.115	167	乙							All done and finished!|全部搞掂晒喇！
+也	17	3	0.252	240	乙							Me too!|我都係呀！
+二	18	2	-0.165	150	二	一	4	一	4			Two lines! One, two!|兩條線！一，二！
+互	19	4	0.088	293	二							Holding hands together!|大家拖住手仔！
+五	20	4	0.03	289	二							The number five! Give me five!|五字！Give me five！
+井	21	4	0.023	289	二							A well to get water!|一笪可以打水嘅井！
+亡	22	4	0.128	295	亠							Someone died !|有人死咗！
+充	23	6	0.132	423	亠							Filling up with energy!|充滿力量呀！
+交	24	6	-0.181	403	亠	六	5	父	5			Like a cross!|好似交叉噉！
+京	25	8	-0.045	540	亠							A really big city!|一個好大嘅城市呀！
+亮	26	9	-0.015	606	亠							Shining bright like a star!|好似星星咁閃亮！
+人	27	2	-0.098	153	人							A person walking on two legs!|用兩隻腳行路嘅人！
+今	28	4	0.091	293	人							Right here right now, today!|就係而家，今日呀！
+介	29	4	-0.094	282	人	人	5	川	4			Standing safely right in the middle!|企喺中間好安全！
+以	30	4	0.015	288	人							Using something!|用一啲嘢幫手！
+他	31	5	0.229	365	人	人	6	也	5			A boy or a man! That is him!|即係男仔嘅佢！
+代	32	5	-0.114	344	人							Replace something!|用一啲嘢代替第二樣嘢！
+令	33	5	-0.145	342	人	今	4					Giving an order!|發出命令！
+任	34	6	-0.086	409	人	人	7	千	6	一	8	Take an important job!|負責重要工作！
+企	35	6	-0.037	412	人	人	7	止	5			Standing up straight on two feet!|用兩隻腳企得直一直！
+但	36	7	0.017	480	人	人	8	日	6	一	9	Saying but when things change!|當事情有變嗰陣講「但係」！
+低	37	7	-0.112	472	人	代	5					Way down low, near the floor!|好低好低，就嚟貼住塊地喇！
+住	38	7	0.019	480	人	人	8	主	5			Staying safe and cozy in a home!|暖笠笠咁喺屋企住！
+何	39	7	-0.079	473	人	人	8	可	5			Asking a question, what or how!|問問題，講緊咩嘢或者點樣！
+你	40	7	0.017	480	人							Pointing right at you! You!|指住你！就係你呀！
+來	41	8	0.284	560	人	木	7	人	9			Coming over here to play!|行過嚟一齊玩呀！
+信	42	9	-0.13	598	人	人	10	三	9	口	9	Writing a letter!|寫緊信呀！
+個	43	10	-0.19	658	人	人	10	口	10	古	8	One piece of something!|一件嘢或者一個人！
+兄	44	5	-0.046	347	儿							A cool older brother!|好型嘅大哥哥！
+先	45	6	0.149	424	儿							Me first! Going right at the front!|我先！行喺最前面！
+免	46	7	0.226	493	儿	久	7	兄	5			You are free and do not have to do it!|免費或者唔使做呀！
+兒	47	8	-0.311	522	儿							A cute little child!|一個可愛嘅小朋友！
+入	48	2	0.187	172	入							Going inside a room or a door!|入去一間房或者過道門！
+內	49	4	0.169	298	入							Safe and sound on the inside!|喺入面好安全！
+全	50	6	0.064	419	入	入	7	王	5			Every single piece, all of it!|全部每一件都係呀！
+八	51	2	-0.05	156	八							The number eight!|數字八呀！
+公	52	4	-0.036	285	八							Public and belongs to everybody!|公共，係屬於大家嘅！
+六	53	4	-0.158	277	八							The six when you roll a dice!|擲骰仔嘅六！
+共	54	6	0.026	417	八							Together!|大家一齊！
+兵	55	7	-0.119	471	八							A brave little soldier!|一個勇敢嘅小士兵！
+其	56	8	-0.068	538	八	共	5	二	9			That is the one!|就係嗰一個喇！
+出	57	5	-0.022	350	凵	山	5	山	5			Going outside to play!|出去玩喇！
+刀	58	2	0.076	164	刀							Be careful with the knife!|用刀仔要小心呀！
+刃	59	3	0.123	231	刀	刀	4					The sharp edge of a knife!|把刀最利嘅邊！
+分	60	4	0.075	292	刀	八	5	刀	5			Sharing a cake into pieces!|將件蛋糕分開一齊食！
+切	61	4	0.242	302	刀	七	5	刀	5			Cut it with a knife!|用刀切開！
+列	62	6	0.16	425	刀							Line up together!|大家排好隊！
+初	63	7	0.09	485	刀							The very beginning!|啱啱開始呀！
+別	64	7	-0.002	478	刀	另	5	刀	8			Do not do it!|別這樣！
+利	65	7	-0.085	473	刀	千	7	八	8	刀	8	Sharp and fast!|好鋒利呀！
+到	66	8	-0.158	533	刀	至	5	刀	9			You arrived!|到咗喇！
+制	67	8	0.017	544	刀	牛	7	巾	8	刀	9	Control it!|控制住呀！
+前	68	9	0.009	607	刀							Look forward!|向前望呀！
+力	69	2	-0.004	159	力							Super strong!|好大力呀！
+功	70	5	-0.068	346	力	工	5	力	6			Great success!|好成功呀！
+加	71	5	0.145	361	力	力	6	口	5			Plus sign! Add them together!|加號呀！加埋一齊。
+包	72	5	0.291	369	勹	句	3	已	5			Wrap it! Like a bun!|包住佢！好似個麵包。
+十	73	2	-0.23	144	十							Ten fingers! Cross shape!|十隻手指！似個十字架。
+千	74	3	-0.115	217	十							Thousand! Ten with a hat!|一千呀！十字加頂帽。
+升	75	4	-0.029	286	十							Go up to the sky!|升上去！好似直升機。
+半	76	5	-0.152	341	十							Split in half!|喺中間切開一半！
+去	77	5	-0.095	345	厶							Go out to play!|行出去玩喇！
+又	78	2	-0.047	156	又							One more time!|又玩多一次！
+友	79	4	-0.06	284	又	十	5	又	5			Best friends!|係我嘅好朋友！
+反	80	4	0.232	301	又							Flip it over!|反轉晒佢啦！
+口	81	3	-0.025	222	口							A wide open mouth!|擘大個口！
+古	82	5	-0.074	346	口	十	6	口	5			Old old stories!|古老嘅故事。
+句	83	5	0.141	360	口							Wrap words into a line!|包住個口！講完一句。
+另	84	5	-0.016	350	口	口	5	力	6			Pick another one!|揀另外一個！
+只	85	5	-0.278	333	口	口	5	八	6			Only one left!|只係得返一個咋！
+可	86	5	-0.214	338	口							A mouth says yes!|一個口話可以！
+台	87	5	0.019	353	口							A stage for shows!|企喺台上面表演！
+右	88	5	0.044	354	口	十	6	口	5			Use your right hand!|呢邊係右手呀！
+司	89	5	0.019	353	口							Where adults work!|大人係公司返工。
+吃	90	6	0.009	415	口	口	6	人	7	乙	8	Open wide and eat!|擘大個口食嘢！
+合	91	6	0.048	418	口	人	7	一	8	口	6	Closing a box!|好似閂埋個盒！
+同	92	6	-0.153	405	口	司	4					Being the same!|同你一模一樣！
+名	93	6	0.182	426	口							What's your name?|你叫咩名呀？
+向	94	6	0.157	425	口							Look that way!|望向嗰邊呀！
+命	95	8	0.182	554	口							It is alive!|仲有生命㗎！
+和	96	8	-0.093	537	口	千	8	八	9	口	8	Play together peacefully!|一齊和平咁玩。
+四	97	5	0.008	352	囗	口	5	八	6			The number four!|八俾個口食咗一半得返四！
+回	98	6	0.134	423	囗	口	6	口	6			Return!|兩把口叫你返屋企！
+因	99	6	0.008	415	囗	口	6	大	6			Because!|口大有原因！
+土	100	3	-0.02	222	土							Soil for plants!|地下有泥土呀！
+在	101	6	0.007	415	土							I am here!|我喺度呀！
+地	102	6	0.218	429	土	土	6	也	6			Step on the ground!|企好係地上面呀！
+址	103	7	0.052	481	土	土	7	止	6			Home's location!|屋企嘅地址呀！
+均	104	7	-0.052	475	土							Share it equally!|大家平均分！要公平呀。
+坐	105	7	0.055	482	土	人	8	土	7			Two people sit down!|兩個人坐喺土上面！
+坦	106	8	-0.017	541	土	土	8	日	7	一	10	Flat ground!|塊地好平呀！
+城	107	9	0.098	612	土	土	9	成	6			Big cities|大城市！
+執	108	11	0.268	751	土	土	10	半	9	九	10	Pick it up!|快啲執起佢！
+場	109	12	-0.096	791	土							Playground!|遊樂場呀！
+士	110	3	-0.05	220	士	十	4	一	5			Brave soldier|勇敢嘅士兵！
+外	111	5	-0.113	344	夕							Go outside and play!|出去外面玩呀！
+多	112	6	-0.027	413	夕							Stacked up, many things!|疊埋一齊好多呀！
+大	113	3	0.076	228	大							Arms wide means big!|擘大對手，好大！
+天	114	4	-0.102	280	大	一	6	大	4			Above us is sky!|頭上面好大嘅就係天！
+太	115	4	-0.035	286	大	大	4					Extra dot means too much!|大字加點太多喇！
+夫	116	4	-0.071	283	大	一	6	大	4			A real man!|男子漢大丈夫！
+央	117	5	0.032	353	大							Person in the middle!|人喺正中央呀！
+失	118	5	-0.077	345	大	牛	4	人	6			Something is lost!|唔見咗嘢！有失物呀！
+女	119	3	0.02	225	女							Girls!|女仔！
+好	120	6	0.162	425	女	女	6	子	6			Good!|好嘢！
+如	121	6	0.117	423	女	女	6	口	6			Just like this!|就係好似咁！
+子	122	3	0.168	234	子	了	4	一	5			A little kid!|係細路仔呀！
+字	123	6	0.129	423	子	子	6					Writing a word!|寫中文字！
+守	124	6	-0.093	409	宀	寸	6					Keep it safe!|好好守護住！
+安	125	6	-0.133	406	宀	女	6					Safe and peaceful!|好安全呀！
+完	126	7	-0.03	476	宀							All finished!|搞掂晒！做完喇！
+定	127	8	-0.032	540	宀							Don't move!|企定定！唔好郁！
+家	128	10	-0.029	668	宀							Our home!|我哋嘅屋企！
+寸	129	3	-0.05	220	寸							So tiny!|得一寸！細細粒！
+將	130	11	0.37	758	寸							Mighty General!|威武嘅將軍！
+小	131	3	0.172	234	小							Small thing!|細細粒！
+少	132	4	-0.043	285	小	小	4					Very few!|得少少！唔多呀。
+就	133	12	-0.146	788	尢	京	7	犬	10			Soon!|即刻搞掂！就快喇。
+尺	134	4	-0.004	287	尸							Long ruler!|用尺踱吓有幾長先。
+山	135	3	-0.092	218	山							Tall mountain!|好高嘅山！
+川	136	3	-0.156	214	川							Three river lines!|三條水呀！好似大河。
+工	137	3	-0.191	211	工							Time to work!|開工喇！
+左	138	5	-0.083	345	工	十	6	工	5			Use your left hand!|呢邊係左手呀！
+己	139	3	0.14	232	己							Curled up self!|好似我縮埋！即係自己。
+已	140	3	0.144	232	己							Already done!|已經做完！
+巾	141	3	0.1	230	巾							A hanging towel!|好似掛住嘅毛巾！
+市	142	5	-0.006	351	巾							A busy market!|係熱鬧嘅街市！
+布	143	5	0.136	360	巾	十	6	巾	5			Soft cloth for clothes!|係整衫嘅布呀！
+希	144	7	0.009	479	巾	十	8	布	5			There's hope for tomorrow!|希望在明天！
+平	145	5	-0.182	339	干							Flat like a road!|好似條路咁平呀！
+年	146	6	-0.216	401	干							Which year is it?|今年係咩年呀？
+幼	147	5	0.187	363	幺							Small and cute like you!|好似你咁細個可愛！
+式	148	6	-0.32	395	弋							Cool style and patterns!|呢個款式好型呀！
+形	149	7	-0.072	474	彡							Beautiful shapes everywhere!|周圍都有靚形狀呀！
+往	150	8	-0.225	529	彳	住	4					Go towards that way!|前往目的地！
+很	151	9	0.067	611	彳							It means very!|好似「非常」咁解！
+後	152	9	0.013	607	彳							Stand behind!|企喺後面呀！
+得	153	11	-0.034	732	彳							You can do it!|你得㗎，加油！
+從	154	11	-0.193	722	彳							From here to there!|從呢度去果到！
+飛	155	9	0.401	632	飞							Wings like a bird!|好似雀仔飛飛！
+心	156	4	0.012	288	心							A tiny heart pumping!|係個心心呀！
+志	157	7	-0.131	470	心	士	7	心	6			Aim high! Little soldier.|小士兵有大志向！
+快	158	7	-0.102	472	心	心	6	央	5			Running fast!|跑得好快好快！
+性	159	8	0.357	565	心	心	7	生	6			How your heart is!|個心嘅性格呀！
+思	160	9	-0.193	594	心	田	7	心	8			Think with your heart!|用個心去諗嘢！
+急	161	9	-0.026	604	心							Run fast! Heart is racing!|跑得快！個心急急跳！
+情	162	11	0.049	737	心							Heart for feelings!|個心有好多感情呀！
+想	163	13	-0.242	847	心	相	7	心	10			Use your heart to think!|用心諗下想食咩！
+意	164	13	-0.234	847	心	立	10	日	10	心	10	Sounds and heart make ideas!|心入面有個好主意！
+成	165	6	0.228	429	戈							You did it! High five!|成功喇！做得好叻呀！
+我	166	7	-0.084	473	戈							It is me!|係我呀！指住自己。
+或	167	8	0.185	555	戈							Pick this or that!|揀呢個，或者嗰個！
+所	168	8	-0.396	517	户							A special place!|一個特別嘅場所！
+才	169	3	-0.023	222	手							Just did it!|啱啱先做到呀！
+手	170	4	-0.119	279	手							Wave your hand!|揮吓你隻手仔！
+打	171	5	-0.052	347	手	手	4	丁	6			Hit the ball!|用手打波！
+扣	172	6	-0.001	414	手	手	5	口	6			Button the coat!|扣埋啲鈕啦！
+找	173	7	0.328	499	手							Find the toy!|搵下件玩具！
+技	174	7	0.187	491	手	手	6	十	8	又	8	Special skills!|特別技能！
+把	175	7	0.232	493	手							Turn the handle, open the door!|轉個手柄開門！
+抗	176	7	0.245	495	手							Push back hard!|要反抗呀！
+拉	177	8	-0.233	527	手	手	7	立	6			Pull it to you!|用手拉過嚟！
+持	178	9	0.004	606	手	手	8	土	9	寸	9	Hold it tight!|拎實唔好放！
+指	179	9	0.353	629	手							Point at it!|用手指住佢！
+收	180	6	-0.092	409	攴							Pack it up!|收返埋佢啦！
+改	181	7	0.068	484	攴	己	7	文	6			Fix a mistake!|改返啱佢！做錯咗要改。
+攻	182	7	-0.189	467	攴	工	7	文	6			Fight and go forward!|攻擊！衝呀！
+放	183	8	0.14	552	攴	方	7	文	7			Put it down!|擺低佢！放低手。
+效	184	10	-0.54	635	攴	交	7	文	9			My method works!|都話我個方法有效㗎喇。
+文	185	4	-0.139	278	文							Drawing words!|寫個文字！
+方	186	4	0.266	305	方							A square box!|係個正方形呀！
+日	187	4	-0.043	285	日							The bright sun!|係圓圓嘅太陽！
+早	188	6	-0.095	409	日	日	5	十	7			Sun is up early!|太陽出咗嚟，早晨！
+明	189	8	0.333	563	日	日	7	月	7			Sun and moon!|日同月一齊好光，好明亮！
+是	190	9	-0.087	601	日							Yes, that is right!|是是是，即係啱呀！
+時	191	10	-0.201	657	日	日	9	土	10	寸	10	What time is it now?|睇吓個鐘，咩時間喇！
+晚	192	11	0.134	742	日	日	10	免	7			Sleepy night time!|太陽落山夜晚喇！
+會	193	13	-0.197	849	曰							We meet together!|大家一齊開會見面！
+月	194	4	0.153	297	月							Shiny crescent moon!|係彎彎嘅月亮呀！
+有	195	6	0.03	417	月	十	7	月	5			I have it!|手上面攞住嘢！我有。
+朋	196	8	0.071	547	月	月	7	月	7			Two moons are friends!|兩粒月亮好朋友！
+服	197	8	0.407	568	月							Wear cool clothes!|著件型衫衫先！
+望	198	11	0.121	742	月	亡	10	月	10	王	10	Look at the moon!|望住個月亮呀！
+期	199	12	-0.147	788	月	其	7	月	10			Time for the moon!|月亮出嚟嘅日期！
+木	200	4	-0.045	285	木	十	5	人	5			It looks like a tree!|好似一棵大樹！
+未	201	5	-0.063	347	木	一	7	木	4			Not yet!|未得呀！
+末	202	5	-0.036	349	木	一	7	木	4			The tip is on top!|最末端係上面！
+本	203	5	-0.08	345	木	木	4	一	7			Mark the tree roots!|樹嘅根本喺下面呀！
+李	204	7	0.154	488	木	木	6	子	7			A tree with kids!|樹下面有小朋友呀！
+材	205	7	0.061	482	木	木	6	才	7			Wood for building!|用木頭整嘢呀！
+村	206	7	-0.011	478	木	木	6	寸	7			A village next to the tree!|樹隔離有一條村莊！
+東	207	8	-0.02	541	木	一	10	由	6	人	9	The sun rises in the east!|太陽喺東邊升起！
+林	208	8	-0.17	532	木	木	7	木	7			Two trees are best friends!|兩棵樹係好朋友！
+果	209	8	0.009	543	木	田	6	木	7			Tasty fruit on a tree!|樹上面有粒果實！
+森	210	12	-0.589	760	木	木	10	林	7			Three trees make a forest!|三棵樹就係大森林！
+次	211	6	-0.227	400	欠							One more time!|再嚟多一次！
+止	212	4	-0.085	283	止							Stop right here!|停止！唔好郁！
+正	213	5	-0.192	339	止	一	7	止	4			Sit up straight!|坐正個人！
+此	214	6	0	414	止							It is right here!|就喺呢度呀！
+步	215	7	-0.049	475	止	止	6	少	6			Take a big step!|大大步向前行！
+武	216	8	-0.186	531	止							A master of Kong Fu!|佢武功高強！
+死	217	6	0.179	426	歹							The end of life!|生命嘅結束！
+毛	218	4	0.067	292	毛							Soft fur on a cat!|好似貓貓啲毛呀！
+水	219	4	0.172	298	水							Water!|水呀！
+江	220	6	-0.165	405	水	水	5	工	6			A big river flowing!|呢條係大河嚟呀！
+決	221	7	0.199	492	水	水	6	央	5			You need to decide!|快啲決定啦。
+沒	222	7	0.1	485	水							No! All gone!|沒有。冇晒喇。
+沙	223	7	0.023	480	水	水	6	少	6			Tiny water and rocks!|水邊嘅細石！係沙呀。
+河	224	8	-0.347	520	水	水	7	可	6			Big flowing water!|好多水流呀！係大河。
+油	225	8	-0.104	536	水	水	7	由	6			Slippery yellow water!|好跣嘅水，咪即係油囉。
+法	226	8	-0.311	522	水	水	7	去	6			A magic way to drain water!|好似魔法咁嘅去水方法！
+洋	227	9	-0.461	577	水	水	8	羊	6			A sheep in water becomes a sea!|水加隻羊！係大海洋。
+流	228	10	-0.038	668	水	水	9	充	7			Water sliding down!|水流落嚟！好似滑梯。
+海	229	10	-0.016	669	水	水	9	人	10	母	8	Water for everyone!|大海好多水！每人都見。
+火	230	4	-0.102	280	火							Hot dancing flames!|熱辣辣！好似火花跳舞。
+灰	231	6	-0.081	409	火	十	7	火	5			Fire goes out leaving gray ash!|火熄咗變咗灰色塵呀！
+災	232	7	0.234	493	火							Big water and fire bring trouble!|大水加火就係災難喇！
+炎	233	8	-0.82	490	火	火	7	火	7			Two fires together make it super hot!|兩把火疊埋，好熱呀！
+炮	234	9	0.103	612	火	火	8	包	7			Cannon! BOOM!|大炮！嘭！
+為	235	9	0.987	670	火							It's good for you!|為你好呀！
+烈	236	10	-0.021	669	火	列	7	火	9			Strong fire below!|底有四點大火！好熱。
+無	237	12	-0.407	771	火							Empty, nothing left!|乜都冇晒喇！空無一物。
+然	238	12	-0.218	784	火							Afterwards?|然後呢？
+父	239	4	-0.001	287	父							Strong daddy!|呢個係爸爸！好型。
+牙	240	4	0.059	291	牙							Big sharp tooth!|一隻大牙齒！刷牙喇。
+牛	241	4	-0.086	282	牛							A cow with horns!|係牛牛呀！有兩隻角。
+物	242	8	-0.005	542	牛							Cow sees something new!|牛牛見到新嘢呀！
+犬	243	4	-0.027	286	犬							A puppy with a tail!|係狗狗呀！有一點。
+王	244	4	-0.137	278	王	一	6	土	4			The great king!|國王！
+理	245	11	-0.178	722	王	王	10	甲	9	二	10	King cleans the jade!|國王整理緊寶石！
+老	246	6	0.283	432	耂							A person with a cane!|好似老人家拎住拐杖！
+母	247	5	0.057	355	母							A mother hugging a baby!|媽媽抱住BB呀！
+生	248	5	-0.101	344	生	牛	4	一	7			A small plant growing!|好似小草生長咁呀！
+用	249	5	0.13	359	用							A bucket to hold things!|攞個桶嚟裝嘢用！
+田	250	5	-0.022	350	田							A square farm field!|四四方方一塊田！
+由	251	5	-0.012	351	田							Crops grow up from the field!|菜苗係田上面生出嚟呀！
+甲	252	5	-0.192	339	田							It's like A in English!|好似英文嘅A 咁呀！
+當	253	13	-0.09	856	田							Wow, a house with windows!|好似有窗嘅大屋呀！
+的	254	8	-0.026	540	白							It is mine!|這是我的！
+目	255	5	-0.005	351	目							Look at the standing eye!|呢個係一隻企喺度嘅眼！
+直	256	8	0.184	554	目							Straight like a ruler!|好似把尺咁直！
+相	257	9	-0.048	603	目	木	8	目	7			Taking a photo!|一齊影張靚相！
+看	258	9	0.077	611	目	手	8	目	7			Use your eyes to look!|用眼仔看清楚！
+眼	259	11	0.191	746	目							Wink your big eyes!|眨下你對大眼仔！
+知	260	8	-0.355	520	矢	失	6	口	8			I know the answer!|我知答案喇！
+石	261	5	-0.141	342	石							A big rock!|呢嚿係大石頭！
+空	262	8	-0.282	524	穴							Empty sky!|個天空空如也！
+立	263	5	-0.12	343	立							Standing tall!|企定定唔好郁！
+羊	264	6	-0.259	398	羊							Cute sheep!|有角嘅羊咩咩！
+而	265	6	0.026	417	而							Like "and" in english!|而且呢...同埋呢...
+耳	266	6	-0.064	411	耳							It's a wiggly ear!|係你隻耳仔呀！
+自	267	6	-0.073	410	自							Points to your nose!|指住個鼻代表自己！
+至	268	6	-0.21	402	至							We reached the goal!|到咗喇！去到尾喇！
+行	269	6	-0.071	410	行	人	7	丁	7			Walk with two feet!|行街街，去玩囉！
+衣	270	6	-0.128	406	衣							Wear a cozy coat!|著返件靚衫衫先！
+表	271	8	-0.057	539	衣	王	7	衣	5			Show time!|表演時間！
+要	272	9	0.103	612	覀							I want it!|我想要呢份禮物呀！
+見	273	7	0.132	487	見	兄	5	二	8			See with big eyes!|用大眼仔去睇嘢！
+記	274	10	-0.203	657	言	三	10	口	10	己	10	Say and remember!|講過就要記住喇！
+走	275	7	-0.134	470	走							Legs are running!|對腳跑得好快呀！
+車	276	7	-0.065	475	車	一	9	日	6	十	8	A car with big wheels!|架車有大個轆呀！
+軍	277	9	-0.129	598	車	車	5					Soldiers in their car!|好多士兵坐軍車呀！
+通	278	10	-0.231	655	辵	之	10	用	8			Pass through the tunnel!|穿過隧道就見到架！
+連	279	10	0.592	707	辵	之	10	車	6			Connect all the cars!|車車排隊連埋一齊！
+過	280	12	0.71	842	辵							Cross the street now!|快啲過馬路啦！
+道	281	12	0.012	799	辵							A head walking on a road!|係一條道路呀！行返屋企。
+那	282	6	0.554	450	邑							Pointing at that far thing!|指住嗰邊呀！嗰個。
+郊	283	9	-0.043	604	邑	交	6	了	10			Going to the park outside!|去郊外玩呀！有草地。
+部	284	10	-0.042	668	邑	立	8	口	10	了	10	One part of a machine!|係一部電話！一份份。
+都	285	10	0.033	672	邑	老	7	日	9	了	10	Everyone is here together!|全部都喺度！大家一齊。
+長	286	8	-0.028	540	長							Super long! Like long hair!|長頭髮！真係好長呀。
+門	287	8	0.033	544	門							Open the big doors!|打開大門！入去玩囉。
+防	288	6	0.166	426	阜	了	7	方	5			Protect with a wall!|築起道牆！防守呀。
+阿	289	7	0.208	492	阜	了	8	可	5			Say names with Ah!|嗌人名！阿媽阿爸。
+限	290	8	0.442	570	阜							Stop! There is a limit!|停！呢度有限制架。
+除	291	9	0.03	608	阜							Clean or take away!|攞走佢！除乾淨！
+陽	292	11	0.285	752	阜							Bright sun!|太陽出嚟喇！好暖呀！
+隊	293	11	0.319	755	阜							A big team!|排排隊！大家一齊行！
+雨	294	8	-0.124	535	雨							Falling rain drops!|落雨喇！滴滴答答！
+面	295	9	0.041	609	面	而	6	三	9			Your cute face!|你個面珠墩好得意呀！
+風	296	9	0.097	612	風							Wind blows the kite!|大風吹起紙鳶！
+食	297	9	-0.075	602	食							Eat with your mouth!|用口食嘢㗎！
+馬	298	10	-0.224	656	馬							Running fast horse!|跑得好快嘅馬！
+高	299	10	-0.164	659	高							Tall like a tree!|好似棵樹咁高！
+龍	300	16	0.932	1113	龍							A big flying dragon!|一條大飛龍！
